@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "mixinMedia.scss"
+    ],
+    "names": [],
+    "file": "mixinMedia.css"
+}
