@@ -11,5 +11,5 @@
     @media (min-width: 991px) { @content; }
   }
   @mixin big-desktop-up {
-    @media (min-width: 1999px) { @content; }
+    @media (min-width: 1199px) { @content; }
   }
